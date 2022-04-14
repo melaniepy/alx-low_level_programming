@@ -1,1 +1,1 @@
-First programming on C!
+First programming on C! Let's gooo!
