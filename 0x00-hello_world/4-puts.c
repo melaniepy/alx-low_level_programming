@@ -2,6 +2,8 @@
 
 /**
 * main - prints the string using the puts function with backslash and quotation
+*
+* Return: 0
 */
 
 int main(void)
