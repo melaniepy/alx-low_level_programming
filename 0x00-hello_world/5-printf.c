@@ -1,5 +1,5 @@
 #include <stdio.h>
-/* main - prints the string with the printf function
+/** main - prints the string with the printf function
 *
 * Return: 0
 */
