@@ -1,1 +1,1 @@
-First programming on C! Let's gooo!
+More Pointers Arrays and Strings
