@@ -1,6 +1,6 @@
 alx-low_level_programming/0x0B-malloc_free/main.h
-@themfon
-themfon malloc protoype fuctions
+@melaniepy
+melaniepy malloc protoype fuctions
 Latest commit a977f77 on Apr 5
  History
  1 contributor
